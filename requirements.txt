@@ -1,0 +1,9 @@
+firebase-admin>=6.0.0
+requests>=2.31.0
+schedule>=1.2.0
+python-dotenv>=1.0.0
+tzlocal>=5.0.0
+typing-extensions>=4.7.0
+appify>=0.8.0  # Added explicitly for clarity
+
+# appify is optional; include it in your own environment if you want a GUI.
